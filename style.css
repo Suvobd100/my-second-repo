@@ -1,0 +1,30 @@
+
+
+.{
+    margin: 0;
+}
+.blg1{
+    background-color: lightsalmon;
+    border: 5px solid red;
+    border-radius: 20px;
+    padding: 40px 80px 50px 10px;
+    margin: 50px;
+    width: 50%;
+    height: 400px;
+}
+h1{
+    text-align: center;
+}
+
+
+.blg2{
+    
+        background-color:gray;
+        border: 5px solid palevioletred;
+        border-radius: 30px;
+        padding: 40px 80px 50px 10px;
+        margin: 50px;
+        width: 50%;
+        height: 400px;
+    
+}
